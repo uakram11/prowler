@@ -1,4 +1,4 @@
-# Prowler: AWS CIS Benchmark Tool
+# Prowler Hello: AWS CIS Benchmark Tool
 
 ## Table of Contents
 
